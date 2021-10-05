@@ -29,7 +29,7 @@ Recording Link: Not recorded
 ![App Screenshot](https://media.discordapp.net/attachments/825456942943436901/880477701402681354/workshop_2.png?width=612&height=612)
 
   
-## Feedback and Analisis
+## Feedback and Analysis
 
 None for this workshop
 
@@ -72,7 +72,7 @@ Recording Link: not recorded
 ![App Screenshot](https://media.discordapp.net/attachments/825456942943436901/888284667516710952/Roadmap_to_cp_17.png?width=612&height=612)
 
   
-## Feedback and Analisis
+## Feedback and Analysis
 
 https://forms.gle/uk7PhXUyHxeDZ6PJ7
 
@@ -89,4 +89,40 @@ Feedback collection from partation : Kartik Shuka
 
 Post update on social account : none 
 
+
+## Workshop 3 : Off Campus Job Opportunities and AMA session
+
+Date - September 26,2021
+
+Guest Speaker - Pramod Chaitanya (https://www.linkedin.com/in/pramod-chaitanya-krishnam-97bb6718b/)
+
+Duration - 1 hour (3PM - 4PM)
+
+Attendance - 45
+
+Recording Link: not recorded 
+
+  
+
+## Poster
+
+![App Screenshot](https://media.discordapp.net/attachments/825456942943436901/891207906899398686/Roadmap_to_cp_22.png?width=612&height=612)
+
+  
+## Feedback and Analysis
+
+https://forms.gle/iTYA6Si2YYWZczWX8
+
+
+## Credits
+
+Workshop permission : Chanduri Varshith
+
+Moderator : Dinesh Kumar
+
+Contact to speaker: Rajith Ramakurthi
+
+Feedback collection from partation : Kartik Shuka
+
+Post update on social account : none 
   
