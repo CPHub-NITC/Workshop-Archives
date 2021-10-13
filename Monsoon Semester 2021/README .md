@@ -96,7 +96,7 @@ Date - September 26,2021
 
 Guest Speaker - Pramod Chaitanya (https://www.linkedin.com/in/pramod-chaitanya-krishnam-97bb6718b/)
 
-Duration - 1 hour (3PM - 4PM)
+Duration - 1 hour
 
 Attendance - 45
 
@@ -122,7 +122,46 @@ Moderator : Dinesh Kumar
 
 Contact to speaker: Rajith Ramakurthi
 
-Feedback collection from partation : Kartik Shuka
+Feedback collection : Rajith Ramakurthi
+
+Post update on social account : none 
+
+
+## Workshop 4 : Graph Theory - Representation,DFS and BFS
+
+Date - October 10,2021
+
+Session by - Kartik Shukla (https://www.linkedin.com/in/kartik-shukla21/)
+
+Duration - 1.5 hour
+
+Attendance - 30
+
+Workshop Material: https://docs.google.com/presentation/d/1PfRalj-A2usjA_Hhvug3nTdpF6sjCRXA/edit?usp=sharing&ouid=105351120525962496676&rtpof=true&sd=true
+
+Recording Link: https://drive.google.com/file/d/12c_sExo-xUpuShfh7ebTF5xiIWc33Abs/view?usp=sharing
+
+ 
+
+## Poster
+
+![App Screenshot](https://media.discordapp.net/attachments/825456942943436901/896268577953447967/BGRAPH_THEORY_2.png?width=464&height=612)
+
+  
+## Feedback and Analysis
+
+https://forms.gle/iTYA6Si2YYWZczWX8
+
+
+## Credits
+
+Workshop permission : Chanduri Varshith
+
+Moderator : Rajith Ramakurthi
+
+Contact to speaker: Rajith Ramakurthi
+
+Feedback collection : Rajith Ramakurthi
 
 Post update on social account : none 
   
