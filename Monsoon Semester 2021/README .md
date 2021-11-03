@@ -163,5 +163,45 @@ Contact to speaker: Rajith Ramakurthi
 
 Feedback collection : Rajith Ramakurthi
 
-Post update on social account : none 
+Post update on social account : Hatim Shakir
+
+
+
+## Workshop 5 : Graph Theory - Disjoint Set Union
+
+Date - October 10,2021
+
+Session by - Aakash Kumar (https://www.linkedin.com/in/ak9315/)
+
+Duration - 1.5 hour
+
+Attendance - 15
+
+Workshop Material: None
+
+Recording Link: https://drive.google.com/file/d/1lSkndHQv3NYt2A6Y3cr2mlGSQDbQuQaw/view?usp=sharing
+
+ 
+
+## Poster
+
+![App Screenshot](https://media.discordapp.net/attachments/825456942943436901/905457480665022514/WhatsApp_Image_2021-10-29_at_13.02.59.jpeg?width=400&height=566)
+
+  
+## Feedback and Analysis
+
+https://forms.gle/GnCUkP5fQ8nFYodm6
+
+
+## Credits
+
+Workshop permission : Chanduri Varshith
+
+Moderator : Rajith Ramakurthi
+
+Contact to speaker: Rajith Ramakurthi
+
+Feedback collection : Rajith Ramakurthi
+
+Post update on social account : Hatim Shakir
   
