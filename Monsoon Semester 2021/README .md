@@ -204,4 +204,43 @@ Contact to speaker: Rajith Ramakurthi
 Feedback collection : Rajith Ramakurthi
 
 Post update on social account : Hatim Shakir
+
+
+
+## Workshop 5 : Graph Theory - Disjoint Set Union
+
+Date - November 21,2021
+
+Session by - Abhishek Jain (https://www.linkedin.com/in/abhishek-jain-1407/)
+
+Duration - 1.5 hour
+
+Attendance - 15
+
+Workshop Material: None
+
+Recording Link: https://drive.google.com/file/d/1lSkndHQv3NYt2A6Y3cr2mlGSQDbQuQaw/view?usp=sharing
+
+ 
+
+## Poster
+
+![App Screenshot](https://media.discordapp.net/attachments/914015480040267796/947752410087038996/unnamed.png?width=432&height=612)
+
   
+## Feedback and Analysis
+
+https://forms.gle/GnCUkP5fQ8nFYodm6
+
+
+## Credits
+
+Workshop permission : Chanduri Varshith
+
+Moderator : Rajith Ramakurthi
+
+Contact to speaker: Rajith Ramakurthi
+
+Feedback collection : Rajith Ramakurthi
+
+Post update on social account : Hatim Shakir
