@@ -169,7 +169,7 @@ Post update on social account : Hatim Shakir
 
 ## Workshop 5 : Graph Theory - Disjoint Set Union
 
-Date - October 10,2021
+Date - October 31,2021
 
 Session by - Aakash Kumar (https://www.linkedin.com/in/ak9315/)
 
