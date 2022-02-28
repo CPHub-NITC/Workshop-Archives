@@ -207,7 +207,7 @@ Post update on social account : Hatim Shakir
 
 
 
-## Workshop 5 : Graph Theory - Disjoint Set Union
+## Workshop 6 : Graph Theory - Segment Tree
 
 Date - November 21,2021
 
